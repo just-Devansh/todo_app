@@ -1,9 +1,8 @@
-// ignore_for_file: prefer_const_constructors
+// ignore_for_file: prefer_const_constructors, must_call_super
 
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:todo_app/Components/dialog_box.dart';
-import 'package:todo_app/Components/my_button.dart';
 import 'package:todo_app/Components/todo_tile.dart';
 import 'package:todo_app/Data/database.dart';
 
