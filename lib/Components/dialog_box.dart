@@ -54,7 +54,7 @@ class DialogBox extends StatelessWidget {
                   onPressed: onCancel,
                 )
               ],
-            )
+            ),
           ],
         ),
       ),
