@@ -1,6 +1,8 @@
 # todo_app
 
 A simple To-Do Application made using **Flutter** & **Hive**.
+![191162308-a7074e8b-b414-4d08-9b03-9999988e4467](https://github.com/just-Devansh/todo_app/assets/135505279/8e8ccbb6-dbb4-483e-a6de-bbb25e140472)
+
 
 # Intention:
 The idea was to, build my first meaningful flutter application. 
